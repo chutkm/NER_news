@@ -6,14 +6,14 @@ This project is designed to **scrape**, **analyze**, and **process Reddit posts*
 
 ## 🚀 Features
 
-- 🔍 Scrapes up to 1000 posts from r/news using PRAW (Reddit API).
-- 🧠 Performs sentiment analysis using `TextBlob` with Naive Bayes.
-- 🗂 Extracts primary and secondary topics using **LDA Topic Modeling** from `gensim`.
-- 🖼 Counts images and hyperlinks in each post.
-- 📅 Converts and extracts features from publication time.
-- 📊 Applies various scalers (RobustScaler, StandardScaler).
-- 🧾 Vectorizes textual features using TF-IDF.
-- 📦 Saves the dataset to CSV for further analysis or ML.
+-  Scrapes up to 1000 posts from r/news using PRAW (Reddit API).
+-  Performs sentiment analysis using `TextBlob` with Naive Bayes.
+-  Extracts primary and secondary topics using **LDA Topic Modeling** from `gensim`.
+-  Counts images and hyperlinks in each post.
+-  Converts and extracts features from publication time.
+-  Applies various scalers (RobustScaler, StandardScaler).
+-  Vectorizes textual features using TF-IDF.
+-  Saves the dataset to CSV for further analysis or ML.
 
 ---
 
